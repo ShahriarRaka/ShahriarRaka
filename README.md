@@ -16,6 +16,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skshahriarahmedraka&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+  [![skshahriarahmedraka's github activity graph](https://activity-graph.herokuapp.com/graph?username=skshahriarahmedraka&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 - 🔭 I’m currently working on
 [DataStructure-Algorithm-DesignPatterns-in-Golang](https://github.com/skshahriarahmedraka/DataStructure-Algorithm-DesignPatterns-in-Golang)
