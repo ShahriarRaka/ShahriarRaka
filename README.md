@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 ( Peace be upon you ), I'm SK Shahriar Ahmed Raka</h1>
+<h1 align="center"><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi ( Peace be upon you ), I'm SK Shahriar Ahmed Raka</h1>
 <h3 align="center">A Curious Learner, Golang Developer, Full-Stack Engineer, Security Researcher</h3>
 
 
