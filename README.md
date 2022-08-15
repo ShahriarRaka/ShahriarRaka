@@ -46,10 +46,45 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+  
+<h3 align="left">Programming Languages :</h3>
+<p align="left">
+
+ <a href="https://golang.org" target="_blank" rel="noreferrer">
+  <img align="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Golang" width="70" height="50"/>
+ </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+ </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+ </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+ </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="" width="40" height="40"/>
+ </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="" width="40" height="40"/>
+ </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="" width="40" height="40"/>
+ </a>
+ 
+  <a href="" target="_blank" rel="noreferrer">
+  <img src="" alt="" width="40" height="40"/>
+ </a>
+        
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/" height="30" width="40" /></a>
+<a href="https://codepen.io/codepen.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/shahriar_ahmed_2c3399e54e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shahriar_ahmed_2c3399e54e" height="30" width="40" /></a>
 <a href="https://twitter.com/shahriarraka7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahriarraka7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/" height="30" width="40" /></a>
