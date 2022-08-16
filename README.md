@@ -81,6 +81,32 @@
         
 </p>
   
+ <h3 align="left">Front End :</h3>
+<p align="left">
+<a  href="https://svelte.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original-wordmark.svg" alt="svelte" width="70" height="70"/>
+ </a>
+  <a  href="https://kit.svelte.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/skshahriarahmedraka/devicon/master/icons/svelte/svelte-kit.svg" alt="sveltekit" width="100" height="40"/>
+  </a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/skshahriarahmedraka/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="180" height="30"/>
+ </a>
+   <a href="https://dashif.org/" target="_blank" rel="noreferrer">
+  <img src="https://dashif.org/img/dashif-logo-283x100_new.jpg" alt="dashjs" width="100" height="40"/>
+ </a>
+   <a href="https://hls-js.netlify.app/demo/" target="_blank" rel="noreferrer">
+  <img src="https://cloud.githubusercontent.com/assets/616833/19739063/e10be95a-9bb9-11e6-8100-2896f8500138.png" alt="hlsjs" width="100" height="40"/>
+ </a>
+   <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+ </a>
+  <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/>
+ </a>
+
+</p>
+  
   <h3 align="left">Oparating Systems :</h3>
 <p align="left">
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
