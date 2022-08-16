@@ -49,6 +49,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a align="center" href="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" target="blank"><img src="https://raw.githubusercontent.com/skshahriarahmedraka/devicon/master/icons/upwork/upwork-offical.svg" alt="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" height="40" width="80" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://raka.hashnode.dev/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://raka.hashnode.dev/" height="30" width="40" /></a>
