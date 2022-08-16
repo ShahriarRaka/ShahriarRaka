@@ -80,6 +80,31 @@
  </a>
         
 </p>
+  
+  <h3 align="left">Oparating Systems :</h3>
+<p align="left">
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40"/>
+ </a>
+  
+   <a href="https://www.redhat.com/en" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="" width="40" height="40"/>
+ </a>
+ 
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" alt="" width="40" height="40"/>
+ </a>
+ 
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/skshahriarahmedraka/devicon/master/icons/kalilinux/Kali-Linux-wordmark.svg" alt="" width="40" height="40"/>
+ </a>
+ <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/skshahriarahmedraka/devicon/blob/master/icons/kalilinux/kali-dragon-icon.svg" alt="" width="40" height="40"/>
+ </a>
+</p>
+  
+  
+  
 
 
 <h3 align="left">Connect with me:</h3>
