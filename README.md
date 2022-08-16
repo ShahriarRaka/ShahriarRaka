@@ -13,9 +13,9 @@
 <!--  -->
 <!--   -->
 <!--   -->
-
+ <div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skshahriarahmedraka&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+</div>
   <div align="center">
   [![skshahriarahmedraka's github activity graph](https://activity-graph.herokuapp.com/graph?username=skshahriarahmedraka&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
   </div>
