@@ -1,14 +1,11 @@
 <h1 align="center"><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi ( Peace be upon you ), I'm SK Shahriar Ahmed Raka</h1>
 <h3 align="center">A Curious Learner, Golang Developer, Full-Stack Engineer, Security Researcher</h3>
-
-
-
 <div align="center">
   <a href="https://github.com/skshahriarahmedraka">
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=skshahriarahmedraka&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=skshahriarahmedraka&layout=compact&langs_count=10&theme=dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=skshahriarahmedraka&layout=compact&langs_count=9&theme=dark" />
 </div>
 <!--  -->
 <!--   -->
@@ -16,13 +13,10 @@
  <div align="center">
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skshahriarahmedraka&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-   
 
   [![skshahriarahmedraka's github activity graph](https://activity-graph.herokuapp.com/graph?username=skshahriarahmedraka&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
   </div>
   
-
-
 - 🔭 I’m currently working on
 [DataStructure-Algorithm-DesignPatterns-in-Golang](https://github.com/skshahriarahmedraka/DataStructure-Algorithm-DesignPatterns-in-Golang)
 
