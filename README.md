@@ -65,8 +65,8 @@
 <h3 align="left">Programming Languages :</h3>
 <p align="left">
 
- <a href="https://golang.org" target="_blank" rel="noreferrer">
-  <img align="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Golang" width="70" height="50"/>
+ <a align="center" href="https://golang.org" target="_blank" rel="noreferrer">
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Golang" width="80" height="60"/>
  </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
