@@ -5,7 +5,7 @@
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=skshahriarahmedraka&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=skshahriarahmedraka&layout=compact&langs_count=9&theme=dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=skshahriarahmedraka&layout=compact&langs_count=10&theme=dark" />
 </div>
 <!--  -->
 
@@ -144,10 +144,22 @@
  </a>
 </p>
   
+<h3 align="left">Cloud Services :</h3>
+<p align="left">
+<a href="" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"" alt="" width="40" height="40"/>
+ </a>
+   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="" width="40" height="40"/>
+ </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+<img src="www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="" width="40" height="40"/>
+ </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" width="40" height="40"/>
+ </a>
+  </p>
   
-  
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/codepen.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/" height="30" width="40" /></a>
