@@ -210,6 +210,24 @@
 	<h1>Hi! I'm <a href="https://skshahriarahmedraka.github.io">Sk Shahriar Ahmed Raka</a> 🐬 !</h1>
 	<div>Rookie programmer; professional bug creator</div>
 	<br />
+	<a href="https://www.github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+	<a href="https://www.github.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+	<a href=""><img src=" 	https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+	<a href=""><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+	<a href=""><img src=" 	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+	<a href=""><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+	<a href=""><img src=" 	https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
+	<a href=""><img src=" 	https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" /></a>
+	<a href=""><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /></a>
+	<a href=""><img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg" /></a>
+	<a href=""><img src="" /></a>
+	<a href=""><img src="" /></a>
+	<a href=""><img src="" /></a>
+	<a href=""><img src="" /></a>
+	<a href=""><img src="" /></a>
+	<a href=""><img src="" /></a>
+	<a href=""><img src="" /></a>
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
 	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=flat&logo=arch-linux" /></a>
 	<a href="https://xmonad.org"><img src="https://img.shields.io/badge/DE-XMonad-eba0ac?style=flat&logo=haskell" /></a>
@@ -224,6 +242,8 @@
 	<br />
 	<img src="https://github-readme-stats.vercel.app/api?username=skshahriarahmedraka&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skshahriarahmedraka&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
+	
+	
 </div>
 
 <details>
