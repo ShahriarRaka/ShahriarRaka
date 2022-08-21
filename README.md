@@ -221,13 +221,25 @@
 	<a href=""><img src=" 	https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" /></a>
 	<a href=""><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /></a>
 	<a href=""><img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg" /></a>
+	<a href=""><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" /></a>
+	<a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+	<a href=""><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+	<a href=""><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+	<a href=""><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
+	<a href=""><img src=" 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 	<a href=""><img src="" /></a>
 	<a href=""><img src="" /></a>
 	<a href=""><img src="" /></a>
 	<a href=""><img src="" /></a>
 	<a href=""><img src="" /></a>
+	 <a href=""><img src="" /></a>
 	<a href=""><img src="" /></a>
 	<a href=""><img src="" /></a>
+	<a href=""><img src="" /></a>
+			      
+			      
+			      
+			      
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
 	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=flat&logo=arch-linux" /></a>
 	<a href="https://xmonad.org"><img src="https://img.shields.io/badge/DE-XMonad-eba0ac?style=flat&logo=haskell" /></a>
